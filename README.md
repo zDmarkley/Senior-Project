@@ -1,6 +1,7 @@
 # MoodCast
 
 NOTE: My primary responsibility was focused on the backend pipelines for our Firebase and Spotify API pipelines
+
 MoodCast is an app that generates podcasts based on a user's mood and ETE. The user can search for the destination they are going to drive to, select the ETE that pops up, select their current mood, and then receive a curated stack of podcast episode to listen to. They can swipe through this stack to either favorite and dismiss episodes. Favorited episodes are shown in their own view and can be searched through. The user also has basic account settings to update their name or email.
 
 _Last updated: 7 June 2025_
